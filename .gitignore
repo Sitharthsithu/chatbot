@@ -1,0 +1,14 @@
+# Ignore PDFs and large files
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
